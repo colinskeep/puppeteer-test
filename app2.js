@@ -73,5 +73,5 @@ try {
       }
     }
 
-  })([{email: 'bankers.schedule43@gmail.com', password: 'easypass123'}, {email: 'bankers.schedule11@gmail.com', password: 'trollman123'}])
+  })()
 } catch (err) { console.log(err) }
